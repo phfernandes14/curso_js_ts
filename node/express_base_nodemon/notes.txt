@@ -1,0 +1,6 @@
+//npm install express, nodemon
+
+package.json >
+    scripts >
+        + "main": "server.js" (Definir arquivo principal)
+        + "start": "nodemon"
