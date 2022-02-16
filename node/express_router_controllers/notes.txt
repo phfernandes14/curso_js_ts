@@ -1,0 +1,6 @@
+//Router
+    - Criação arquivo de rotas //routes.js 
+    - Exportar modulo de rota e importa no serverjs
+//Controller
+    - Pasta de controllers
+    - Transferir logica dentro das rotas para controllers
