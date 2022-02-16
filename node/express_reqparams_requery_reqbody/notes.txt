@@ -1,0 +1,13 @@
+//req params
+    rota/:nomeDoParametro --Parametro requerido na rota
+    rota/:nomeDoParametro?/:outroParametroOpcional? --Parametro opcional
+    
+//query string
+    www..../1?querystring
+    www..../1?primeiraquery&segundaquery
+        ../testes/?nome="Pedro"&sobrenome="Fernandes"&idade=20
+
+//req body
+    Valor no corpo da requisição
+          <form action="/" method="POST">
+            Nome do cliente: <input type="text" name="nome">--Referencia de acesso pelo name do input
