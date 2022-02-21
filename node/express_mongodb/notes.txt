@@ -1,0 +1,4 @@
+- dotenv
+npm i dotenv
+- mongoose
+npm i mongoose
